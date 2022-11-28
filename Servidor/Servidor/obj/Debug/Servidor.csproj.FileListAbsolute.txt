@@ -1,0 +1,34 @@
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\lauta\Desktop\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\lauta\Desktop\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\lauta\Desktop\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\lauta\Desktop\Servidor\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Servidor\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\lauta\Desktop\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\lauta\Desktop\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Eze\Desktop\Chat\Servidor\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\Eze\Desktop\Chat\Servidor\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eze\Desktop\Chat\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Eze\Desktop\Chat\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\Eze\Desktop\Chat\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Eze\Desktop\Chat\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Eze\Desktop\Chat\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Eze\Desktop\Chat\Servidor\Servidor\bin\Debug\Servidor.pdb

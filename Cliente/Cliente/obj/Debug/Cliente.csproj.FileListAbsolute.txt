@@ -1,0 +1,57 @@
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Transitions.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Cliente\Cliente\bin\Debug\Transitions.pdb
+C:\Users\lauta\Desktop\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\lauta\Desktop\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\lauta\Desktop\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\lauta\Desktop\Cliente\Cliente\bin\Debug\Transitions.dll
+C:\Users\lauta\Desktop\Cliente\Cliente\bin\Debug\Transitions.pdb
+C:\Users\lauta\Desktop\Cliente\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Cliente\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\lauta\Desktop\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\lauta\Desktop\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\lauta\Desktop\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\lauta\Desktop\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\lauta\Desktop\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\bin\Debug\Transitions.dll
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\bin\Debug\Transitions.pdb
+C:\Users\Eze\Desktop\Chat\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
